@@ -19,7 +19,7 @@
     'use strict';
 
     const CONFIG = {
-        AUTH_TOKEN: "C20EAA8F48737C0519E1079B89126F0A",
+        AUTH_TOKEN: "INPUT YOUR TOKEN HERE",
         INITIAL_DELAY: 300, // Reduced delay for faster redirect
         ENABLE_REDIRECT: true,
         REDIRECT_DELAY: 500, // Much faster redirect
